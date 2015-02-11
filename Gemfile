@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 ruby   '2.2.0'
 
 # SDF: RVM uses the following to automatically set the gemset.
-#ruby-gemset=railstutorial_rails_4_2
+#ruby-gemset=gemset_7012
 
 gem 'rails',                   '4.2.0'
 gem 'bcrypt',                  '3.1.9'
